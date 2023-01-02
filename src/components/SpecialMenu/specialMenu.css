@@ -1,0 +1,38 @@
+.special__menu {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap: 5px;
+}
+.special__menu .special__menu-heading {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: baseline;
+}
+.special__menu .special__menu-heading > * {
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 100%;
+  text-align: left;
+}
+.special__menu .special__menu-heading .special__menu-heading-price {
+  text-align: right !important;
+}
+.special__menu .special__menu-heading h3 {
+  color: var(--color-golden);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 130%;
+  font-family: var(--font-base);
+}
+.special__menu .special__menu-heading .special__menu-dash {
+  width: 70px;
+  height: 1px;
+  background: #fafafa;
+}
+.special__menu .special__menu-heading p {
+  font-size: 23px;
+  line-height: 130%;
+  font-weight: 700;
+}
