@@ -1,7 +1,7 @@
 # Gericht Landing Page
 ### [Live Site](https://gericht-restaurant.com/)
 
-![Restaurant Landing Page](https://ibb.co/2Z5LXnv)
+<a href="https://ibb.co/2Z5LXnv"><img src="https://i.ibb.co/Vw3hXjg/screencapture-localhost-3000-2023-01-02-23-16-47.png" alt="screencapture-localhost-3000-2023-01-02-23-16-47" border="0"></a>
 
 # Getting Started with Create React App
 
