@@ -1,3 +1,8 @@
+# Gericht Landing Page
+### [Live Site](https://gericht-restaurant.com/)
+
+![Restaurant Landing Page](https://ibb.co/2Z5LXnv)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
